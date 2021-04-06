@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo file created to learn git.
+This is a demo file created to learn git commands.
