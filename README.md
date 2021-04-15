@@ -3,4 +3,5 @@
 This is a demo file created to learn git commands.
 
 
-Update for branch diff
+# Branch
+How to create new branch and switched to feature
